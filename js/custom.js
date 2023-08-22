@@ -108,9 +108,9 @@
 		/*	Single Image Lightbox
 		/*----------------------------------------------------*/
 				
-		$('.image-link').magnificPopup({
-		  type: 'image'
-		});	
+		// $('.image-link')?.magnificPopup({
+		//   type: 'image'
+		// });	
 
 
 		/*----------------------------------------------------*/
